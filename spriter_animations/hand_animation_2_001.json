@@ -1,0 +1,35 @@
+{
+	"frames": {
+		"group bubble.png": {
+			"frame": {
+				"h": 331,
+				"w": 388,
+				"x": 0,
+				"y": 0
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 331,
+				"w": 388
+			},
+			"spriteSourceSize": {
+				"h": 331,
+				"w": 388,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		}
+	},
+	"meta": {
+		"app": "Spriter",
+		"format": "RGBA8888",
+		"image": "hand_animation_2_001.png",
+		"scale": 1,
+		"size": {
+			"h": 388,
+			"w": 388
+		},
+		"version": "r11"
+	}
+}

@@ -1,0 +1,180 @@
+
+audition_asset.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 560
+  size: 1124, 1406
+  orig: 1124, 1406
+  offset: 0, 0
+  index: -1
+down
+  rotate: false
+  xy: 833, 91
+  size: 262, 285
+  orig: 262, 285
+  offset: 0, 0
+  index: -1
+down-btn
+  rotate: false
+  xy: 1366, 107
+  size: 173, 180
+  orig: 173, 180
+  offset: 0, 0
+  index: -1
+down-btn-gray
+  rotate: false
+  xy: 1541, 244
+  size: 173, 180
+  orig: 173, 180
+  offset: 0, 0
+  index: -1
+down-press
+  rotate: false
+  xy: 1128, 471
+  size: 262, 270
+  orig: 262, 270
+  offset: 0, 0
+  index: -1
+finish
+  rotate: false
+  xy: 1128, 743
+  size: 303, 332
+  orig: 303, 332
+  offset: 0, 0
+  index: -1
+finish_bar
+  rotate: false
+  xy: 2, 378
+  size: 1099, 180
+  orig: 1099, 180
+  offset: 0, 0
+  index: -1
+finish_mark
+  rotate: false
+  xy: 1961, 1009
+  size: 24, 66
+  orig: 24, 66
+  offset: 0, 0
+  index: -1
+finish_metter
+  rotate: false
+  xy: 2, 26
+  size: 274, 16
+  orig: 274, 16
+  offset: 0, 0
+  index: -1
+finish_press
+  rotate: false
+  xy: 2, 44
+  size: 303, 332
+  orig: 303, 332
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1128, 1077
+  size: 898, 889
+  orig: 898, 889
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 1103, 184
+  size: 261, 285
+  orig: 261, 285
+  offset: 0, 0
+  index: -1
+left-btn
+  rotate: false
+  xy: 1655, 608
+  size: 173, 180
+  orig: 173, 180
+  offset: 0, 0
+  index: -1
+left-btn-gray
+  rotate: false
+  xy: 1097, 2
+  size: 173, 180
+  orig: 173, 180
+  offset: 0, 0
+  index: -1
+left-press
+  rotate: false
+  xy: 1392, 471
+  size: 261, 270
+  orig: 261, 270
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 570, 90
+  size: 261, 286
+  orig: 261, 286
+  offset: 0, 0
+  index: -1
+right-btn
+  rotate: false
+  xy: 1830, 426
+  size: 173, 180
+  orig: 173, 180
+  offset: 0, 0
+  index: -1
+right-btn-gray
+  rotate: false
+  xy: 1366, 289
+  size: 173, 180
+  orig: 173, 180
+  offset: 0, 0
+  index: -1
+right-press
+  rotate: false
+  xy: 307, 90
+  size: 261, 286
+  orig: 261, 286
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 1697, 790
+  size: 262, 285
+  orig: 262, 285
+  offset: 0, 0
+  index: -1
+up-btn
+  rotate: false
+  xy: 1655, 426
+  size: 173, 180
+  orig: 173, 180
+  offset: 0, 0
+  index: -1
+up-btn-gray
+  rotate: false
+  xy: 1830, 608
+  size: 173, 180
+  orig: 173, 180
+  offset: 0, 0
+  index: -1
+up-press
+  rotate: false
+  xy: 1433, 790
+  size: 262, 285
+  orig: 262, 285
+  offset: 0, 0
+  index: -1
+
+audition_asset2.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+table
+  rotate: false
+  xy: 2, 2
+  size: 1125, 1389
+  orig: 1125, 1389
+  offset: 0, 0
+  index: -1

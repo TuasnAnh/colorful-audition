@@ -1,0 +1,995 @@
+{
+	"frames": {
+		"Bamsai_ma.png": {
+			"frame": {
+				"h": 13,
+				"w": 21,
+				"x": 783,
+				"y": 511
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 15,
+				"w": 21
+			},
+			"spriteSourceSize": {
+				"h": 13,
+				"w": 21,
+				"x": 0,
+				"y": 1
+			},
+			"trimmed": "true"
+		},
+		"Bamsai_mieng.png": {
+			"frame": {
+				"h": 5,
+				"w": 40,
+				"x": 1599,
+				"y": 355
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 5,
+				"w": 40
+			},
+			"spriteSourceSize": {
+				"h": 5,
+				"w": 40,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"Buom bay 01.png": {
+			"frame": {
+				"h": 431,
+				"w": 462,
+				"x": 602,
+				"y": 1520
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 431,
+				"w": 462
+			},
+			"spriteSourceSize": {
+				"h": 431,
+				"w": 462,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"Buombay_mat1.png": {
+			"frame": {
+				"h": 25,
+				"w": 30,
+				"x": 2007,
+				"y": 745
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 26,
+				"w": 31
+			},
+			"spriteSourceSize": {
+				"h": 25,
+				"w": 30,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"Buombay_mat2.png": {
+			"frame": {
+				"h": 26,
+				"w": 25,
+				"x": 2007,
+				"y": 775
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 26,
+				"w": 26
+			},
+			"spriteSourceSize": {
+				"h": 26,
+				"w": 25,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"Buombay_mieng1.png": {
+			"frame": {
+				"h": 42,
+				"w": 28,
+				"x": 663,
+				"y": 732
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 42,
+				"w": 28
+			},
+			"spriteSourceSize": {
+				"h": 42,
+				"w": 28,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"Buombay_mieng2.png": {
+			"frame": {
+				"h": 52,
+				"w": 27,
+				"x": 1527,
+				"y": 701
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 52,
+				"w": 27
+			},
+			"spriteSourceSize": {
+				"h": 52,
+				"w": 27,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"Casau_mieng.png": {
+			"frame": {
+				"h": 24,
+				"w": 66,
+				"x": 1527,
+				"y": 677
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 25,
+				"w": 67
+			},
+			"spriteSourceSize": {
+				"h": 24,
+				"w": 66,
+				"x": 1,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"Choang nhau hand 1 thumb.png": {
+			"frame": {
+				"h": 90,
+				"w": 129,
+				"x": 455,
+				"y": 1685
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 90,
+				"w": 129
+			},
+			"spriteSourceSize": {
+				"h": 90,
+				"w": 129,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"Choangnhau_mieng.png": {
+			"frame": {
+				"h": 23,
+				"w": 69,
+				"x": 708,
+				"y": 635
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 23,
+				"w": 69
+			},
+			"spriteSourceSize": {
+				"h": 23,
+				"w": 69,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"Tinhban_mieng.png": {
+			"frame": {
+				"h": 21,
+				"w": 20,
+				"x": 2007,
+				"y": 800
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 21,
+				"w": 20
+			},
+			"spriteSourceSize": {
+				"h": 21,
+				"w": 20,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"Xoa tay 01.png": {
+			"frame": {
+				"h": 542,
+				"w": 602,
+				"x": 0,
+				"y": 994
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 542,
+				"w": 603
+			},
+			"spriteSourceSize": {
+				"h": 542,
+				"w": 602,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"Xoa tay 02.png": {
+			"frame": {
+				"h": 505,
+				"w": 631,
+				"x": 1376,
+				"y": 745
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 505,
+				"w": 631
+			},
+			"spriteSourceSize": {
+				"h": 505,
+				"w": 631,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"Xoatay_mat.png": {
+			"frame": {
+				"h": 30,
+				"w": 30,
+				"x": 663,
+				"y": 788
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 30,
+				"w": 30
+			},
+			"spriteSourceSize": {
+				"h": 30,
+				"w": 30,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"Xoatay_mat1.png": {
+			"frame": {
+				"h": 8,
+				"w": 9,
+				"x": 792,
+				"y": 460
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 8,
+				"w": 9
+			},
+			"spriteSourceSize": {
+				"h": 8,
+				"w": 9,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"Xoatay_mieng.png": {
+			"frame": {
+				"h": 24,
+				"w": 40,
+				"x": 777,
+				"y": 635
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 24,
+				"w": 40
+			},
+			"spriteSourceSize": {
+				"h": 24,
+				"w": 40,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"Xoatay_mimatduoi.png": {
+			"frame": {
+				"h": 17,
+				"w": 24,
+				"x": 783,
+				"y": 487
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 17,
+				"w": 24
+			},
+			"spriteSourceSize": {
+				"h": 17,
+				"w": 24,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"Xoatay_mimattren.png": {
+			"frame": {
+				"h": 28,
+				"w": 39,
+				"x": 663,
+				"y": 760
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 28,
+				"w": 39
+			},
+			"spriteSourceSize": {
+				"h": 28,
+				"w": 39,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"Xoaychiakhoa_mat.png": {
+			"frame": {
+				"h": 34,
+				"w": 25,
+				"x": 1579,
+				"y": 701
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 34,
+				"w": 26
+			},
+			"spriteSourceSize": {
+				"h": 34,
+				"w": 25,
+				"x": 1,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"Xoaychiakhoa_mat1.png": {
+			"frame": {
+				"h": 9,
+				"w": 7,
+				"x": 792,
+				"y": 468
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 9,
+				"w": 7
+			},
+			"spriteSourceSize": {
+				"h": 9,
+				"w": 7,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"Xoaychiakhoa_mieng.png": {
+			"frame": {
+				"h": 9,
+				"w": 27,
+				"x": 783,
+				"y": 460
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 9,
+				"w": 27
+			},
+			"spriteSourceSize": {
+				"h": 9,
+				"w": 27,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"bubble 1.png": {
+			"frame": {
+				"h": 60,
+				"w": 60,
+				"x": 1064,
+				"y": 1711
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 60,
+				"w": 60
+			},
+			"spriteSourceSize": {
+				"h": 60,
+				"w": 60,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"bubble 2.png": {
+			"frame": {
+				"h": 44,
+				"w": 43,
+				"x": 663,
+				"y": 689
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 44,
+				"w": 43
+			},
+			"spriteSourceSize": {
+				"h": 44,
+				"w": 43,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"buom bay h2 _2.png": {
+			"frame": {
+				"h": 328,
+				"w": 668,
+				"x": 708,
+				"y": 677
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 328,
+				"w": 668
+			},
+			"spriteSourceSize": {
+				"h": 328,
+				"w": 668,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"buombay h2 _1.png": {
+			"frame": {
+				"h": 305,
+				"w": 663,
+				"x": 0,
+				"y": 689
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 306,
+				"w": 663
+			},
+			"spriteSourceSize": {
+				"h": 305,
+				"w": 663,
+				"x": 0,
+				"y": 1
+			},
+			"trimmed": "true"
+		},
+		"casau h1a.png": {
+			"frame": {
+				"h": 355,
+				"w": 802,
+				"x": 802,
+				"y": 0
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 356,
+				"w": 802
+			},
+			"spriteSourceSize": {
+				"h": 355,
+				"w": 802,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"casau h1b.png": {
+			"frame": {
+				"h": 322,
+				"w": 746,
+				"x": 802,
+				"y": 355
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 322,
+				"w": 746
+			},
+			"spriteSourceSize": {
+				"h": 322,
+				"w": 746,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"casau h2a.png": {
+			"frame": {
+				"h": 218,
+				"w": 122,
+				"x": 1137,
+				"y": 1005
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 219,
+				"w": 122
+			},
+			"spriteSourceSize": {
+				"h": 218,
+				"w": 122,
+				"x": 0,
+				"y": 1
+			},
+			"trimmed": "true"
+		},
+		"casau h2b.png": {
+			"frame": {
+				"h": 429,
+				"w": 745,
+				"x": 1604,
+				"y": 0
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 429,
+				"w": 746
+			},
+			"spriteSourceSize": {
+				"h": 429,
+				"w": 745,
+				"x": 1,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"casau h2c.png": {
+			"frame": {
+				"h": 460,
+				"w": 802,
+				"x": 0,
+				"y": 0
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 460,
+				"w": 803
+			},
+			"spriteSourceSize": {
+				"h": 460,
+				"w": 802,
+				"x": 1,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"choang nhau hand 1 first.png": {
+			"frame": {
+				"h": 49,
+				"w": 86,
+				"x": 1548,
+				"y": 587
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 49,
+				"w": 86
+			},
+			"spriteSourceSize": {
+				"h": 49,
+				"w": 86,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"choang nhau hand 1 last.png": {
+			"frame": {
+				"h": 61,
+				"w": 54,
+				"x": 1064,
+				"y": 1657
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 61,
+				"w": 54
+			},
+			"spriteSourceSize": {
+				"h": 61,
+				"w": 54,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"choang nhau hand 1 mid.png": {
+			"frame": {
+				"h": 46,
+				"w": 97,
+				"x": 1548,
+				"y": 490
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 46,
+				"w": 97
+			},
+			"spriteSourceSize": {
+				"h": 46,
+				"w": 97,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"choang nhau hand 1 third.png": {
+			"frame": {
+				"h": 53,
+				"w": 84,
+				"x": 1301,
+				"y": 1127
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 53,
+				"w": 84
+			},
+			"spriteSourceSize": {
+				"h": 53,
+				"w": 84,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"choang nhau hand 1.png": {
+			"frame": {
+				"h": 286,
+				"w": 410,
+				"x": 1604,
+				"y": 1726
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 287,
+				"w": 411
+			},
+			"spriteSourceSize": {
+				"h": 286,
+				"w": 410,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"choang nhau hand 2.png": {
+			"frame": {
+				"h": 407,
+				"w": 467,
+				"x": 1137,
+				"y": 1434
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 407,
+				"w": 467
+			},
+			"spriteSourceSize": {
+				"h": 407,
+				"w": 467,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"hand_0.png": {
+			"frame": {
+				"h": 509,
+				"w": 184,
+				"x": 1137,
+				"y": 1250
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 509,
+				"w": 184
+			},
+			"spriteSourceSize": {
+				"h": 509,
+				"w": 184,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"main finger.png": {
+			"frame": {
+				"h": 151,
+				"w": 57,
+				"x": 1376,
+				"y": 677
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 151,
+				"w": 57
+			},
+			"spriteSourceSize": {
+				"h": 151,
+				"w": 57,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"middle finger.png": {
+			"frame": {
+				"h": 137,
+				"w": 61,
+				"x": 1064,
+				"y": 1520
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 137,
+				"w": 61
+			},
+			"spriteSourceSize": {
+				"h": 137,
+				"w": 61,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"tinh ban hand 1 four fing.png": {
+			"frame": {
+				"h": 51,
+				"w": 135,
+				"x": 1548,
+				"y": 355
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 51,
+				"w": 135
+			},
+			"spriteSourceSize": {
+				"h": 51,
+				"w": 135,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"tinh ban hand 2.png": {
+			"frame": {
+				"h": 229,
+				"w": 708,
+				"x": 0,
+				"y": 460
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 229,
+				"w": 708
+			},
+			"spriteSourceSize": {
+				"h": 229,
+				"w": 708,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"tinhban hand 1.png": {
+			"frame": {
+				"h": 515,
+				"w": 535,
+				"x": 602,
+				"y": 1005
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 517,
+				"w": 535
+			},
+			"spriteSourceSize": {
+				"h": 515,
+				"w": 535,
+				"x": 0,
+				"y": 1
+			},
+			"trimmed": "true"
+		},
+		"tinhban hand 2 thumb.png": {
+			"frame": {
+				"h": 149,
+				"w": 135,
+				"x": 455,
+				"y": 1536
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 149,
+				"w": 135
+			},
+			"spriteSourceSize": {
+				"h": 149,
+				"w": 135,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"tinhban hand1 thumb.png": {
+			"frame": {
+				"h": 75,
+				"w": 175,
+				"x": 708,
+				"y": 460
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 75,
+				"w": 175
+			},
+			"spriteSourceSize": {
+				"h": 75,
+				"w": 175,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"xoay h1a.png": {
+			"frame": {
+				"h": 361,
+				"w": 476,
+				"x": 1646,
+				"y": 1250
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 362,
+				"w": 476
+			},
+			"spriteSourceSize": {
+				"h": 361,
+				"w": 476,
+				"x": 0,
+				"y": 1
+			},
+			"trimmed": "true"
+		},
+		"xoay h1b.png": {
+			"frame": {
+				"h": 151,
+				"w": 300,
+				"x": 0,
+				"y": 1851
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 151,
+				"w": 300
+			},
+			"spriteSourceSize": {
+				"h": 151,
+				"w": 300,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"xoay h1c.png": {
+			"frame": {
+				"h": 114,
+				"w": 164,
+				"x": 1137,
+				"y": 1127
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 114,
+				"w": 164
+			},
+			"spriteSourceSize": {
+				"h": 114,
+				"w": 164,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"xoay h2a.png": {
+			"frame": {
+				"h": 357,
+				"w": 169,
+				"x": 1064,
+				"y": 1841
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 357,
+				"w": 170
+			},
+			"spriteSourceSize": {
+				"h": 357,
+				"w": 169,
+				"x": 1,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"xoay h2b.png": {
+			"frame": {
+				"h": 315,
+				"w": 455,
+				"x": 0,
+				"y": 1536
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 315,
+				"w": 455
+			},
+			"spriteSourceSize": {
+				"h": 315,
+				"w": 455,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		}
+	},
+	"meta": {
+		"app": "Spriter",
+		"format": "RGBA8888",
+		"image": "hand_animation_2_000.png",
+		"scale": 1,
+		"size": {
+			"h": 2033,
+			"w": 2033
+		},
+		"version": "r11"
+	}
+}
